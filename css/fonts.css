@@ -1,0 +1,11 @@
+@font-face {
+   font-family: bn;
+   src: url(../fonts/BebasNeueRegular.woff) format("woff"), url(../fonts/ofont.ru_Bebas\ Neue.woff2) format("woff2"),
+      url(../fonts/ofont.ru_Bebas\ Neue.eot) format("eot");
+}
+
+@font-face {
+   font-family: op;
+   src: url(../fonts/open-sans.regular.eot) format("eot"), url(../fonts/open-sans.regular.woff2) format("woff2"),
+      url(../fonts/OpenSans.woff) format("woff");
+}
